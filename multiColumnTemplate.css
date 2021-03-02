@@ -435,9 +435,9 @@ body {
 }
 .social {
 	text-align: center;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
 	width: 100%;
 	background-color: #B8B8B8;
 	clear: both;

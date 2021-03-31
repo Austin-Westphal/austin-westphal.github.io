@@ -23,7 +23,7 @@
 	display: inline-block
 }
 .row.blockDisplay {
-	display: block;
+	display: inline-block;
 }
 .column_half {
 	width: 50%;
